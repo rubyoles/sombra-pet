@@ -1,0 +1,9 @@
+{
+  "name": "Sombra",
+  "description": "A calm, curious black cat with green-gold eyes.",
+  "spriteVersionNumber": 2,
+  "spriteSheet": "sombra.png",
+  "width": 1536,
+  "height": 2288,
+  "sha256": "f3cf75ca7b33f91041820fd75ff7a71f3a5beb7203a27db665accfda3f370c8a"
+}
